@@ -6,7 +6,7 @@
   - [ ] robot.txt
   - [ ] info on the site itself
 - [ ] WHOIS 
-- [ ] shodan
+- [ ] [shodan](https://www.shodan.io/)
 - [ ] pastebin
 - [ ] social media
 - [ ] 2de hands
@@ -27,8 +27,8 @@
   Whois.ripe.net
   
 ## Google Dorks
-- exploit-db (https://www.exploit-db.com/google-hacking-database/)
-- ghdb (http://www.hackersforcharity.org/ghdb/)
+- [exploit-db](https://www.exploit-db.com/google-hacking-database/)
+- [ghdb](http://www.hackersforcharity.org/ghdb/)
 
 ## Recon-ng
 ## Maltego
