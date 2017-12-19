@@ -1,1 +1,1 @@
-[default users](./wordlist/default_users.txt) <br />
+[default users](./default_users.txt) <br />
